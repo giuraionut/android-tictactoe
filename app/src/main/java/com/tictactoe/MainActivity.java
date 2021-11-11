@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private TextView playerScore, computerScore;
     private final Set<Button> buttons = new HashSet<>();
     private List<String> buttonsId = new ArrayList<>();
-    Player player = new Player("Player");
+    Player player = new Player("player");
     Player computer = new Player("Computer");
 
     @Override
