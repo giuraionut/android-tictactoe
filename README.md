@@ -1,7 +1,7 @@
 # Tic Tac Toe
 <p align = "center">
 <img src = "https://img.shields.io/badge/JAVA-blue">
-<img src = "https://img.shields.io/badge/ANDROID-STUDIO-green">
+<img src = "https://img.shields.io/badge/ANDROID STUDIO-green">
 </p>
 Simple Tic Tac Toe game made with Android Studio.
 
